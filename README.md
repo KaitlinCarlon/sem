@@ -1,1 +1,1 @@
-hello
+Build status for master [![Build Status](https://travis-ci.com/KaitlinCarlon/sem.svg?branch=master)](https://travis-ci.com/KaitlinCarlon/sem)
